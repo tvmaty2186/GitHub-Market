@@ -30,4 +30,4 @@ Ante la duda, poner "A cotizar (cliente)" y marcarlo en el resumen para que Mati
 En el resumen diario listar todas las "A cotizar (cliente)" abiertas con cliente,
 referencia (N° PDC/licitación) y fecha de vencimiento si figura.
 
-Nota: la carpeta "Cotizaciones pendientes" (armada por Copilot) tiene mezcla de ambas; no se usa.
+Nota: la carpeta "Cotizaciones pendientes" de Copilot se eliminó el 30/10/2026; sus mails volvieron a la Bandeja de entrada. No crear carpetas: usar categorías.
